@@ -1,4 +1,4 @@
-# Turkey Topography to STL (Python)
+# Pure Python DEM to 3D STL — no GIS required
 
 This repository demonstrates how to generate a 3D topographic STL model
 of Turkey using real elevation data, pure Python, and no GIS software.
@@ -31,6 +31,13 @@ producing a polished or 3D-print-ready model.
     └── README.md
 
 ------------------------------------------------------------------------
+
+# Quick Start
+
+1. Place DEM in data/
+2. Run download script (with API key)
+3. Preview with preview_dem_2d.py
+4. Generate STL with dem_to_stl_a5.py
 
 ## Data Source
 
