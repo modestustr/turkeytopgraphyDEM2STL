@@ -28,6 +28,7 @@ producing a polished or 3D-print-ready model.
     ├── data/
     ├── outputs/
     ├── .gitignore
+    ├── requirements.txt
     └── README.md
 
 ------------------------------------------------------------------------
