@@ -40,6 +40,17 @@ producing a polished or 3D-print-ready model.
 3. Preview with preview_dem_2d.py
 4. Generate STL with dem_to_stl_a5.py
 
+## Installation
+
+Make sure you have **Python 3.9+** installed.
+
+Install all required dependencies using pip:
+
+```bash
+pip install numpy rasterio numpy-stl tqdm matplotlib
+or
+pip install -r requirements.txt
+
 ## Data Source
 
 Elevation data is provided by **OpenTopography**.
